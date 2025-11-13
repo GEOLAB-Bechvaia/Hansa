@@ -1,7 +1,8 @@
-p {
-	font-family: "lexus", sans-serif;
-}
-
-h1 {
-	font-family: "Ballet" sans-serif;
+h2 {
+	font-family: "Ballet", sans-serif;
+	letter-spacing: 10px;
+	text-align: center;
+	margin: 200px;
+	font-style: italic;
+	text-transform: capitalize;
 }
